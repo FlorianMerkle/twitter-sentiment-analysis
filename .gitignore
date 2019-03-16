@@ -1,0 +1,6 @@
+ENV/
+ressources/
+config.py
+.vscode/settings.json
+__pycache__/
+tables
