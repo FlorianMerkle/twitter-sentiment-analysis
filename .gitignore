@@ -1,6 +1,6 @@
 ENV/
 ressources/
 config.py
-.vscode/settings.json
+.vscode/
 __pycache__/
 tables

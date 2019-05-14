@@ -1,0 +1,34 @@
+likecount, country of channel
+
+{  
+   'kind':'youtube#commentThread',
+   'etag':'"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Tzy1b2YAIw875rnypfT21ux29Rs"',
+   'id':'UgxppEb4thVI1Iw0WYl4AaABAg',
+   'snippet':{  
+      'videoId':'oJ4NbEYB_rM',
+      'topLevelComment':{  
+         'kind':'youtube#comment',
+         'etag':'"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Sd0eLkDJsm8C2GpsGjXUCV3EEKQ"',
+         'id':'UgxppEb4thVI1Iw0WYl4AaABAg',
+         'snippet':{  
+            'authorDisplayName':'Jonas Hofer',
+            'authorProfileImageUrl':'https://yt3.ggpht.com/-XgjNBqvqJIY/AAAAAAAAAAI/AAAAAAAAAAA/btFfOEqCkdM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg',
+            'authorChannelUrl':'http://www.youtube.com/channel/UCUkQ2ewwwikKikLK2HP0X0g',
+            'authorChannelId':{  
+               'value':'UCUkQ2ewwwikKikLK2HP0X0g'
+            },
+            'videoId':'oJ4NbEYB_rM',
+            'textDisplay':'die tricks die david setted verkacken das ganze format🤐',
+            'textOriginal':'die tricks die david setted verkacken das ganze format🤐',
+            'canRate':True,
+            'viewerRating':'none',
+            'likeCount':7,
+            'publishedAt':'2018-05-08T08:32:59.000Z',
+            'updatedAt':'2018-05-08T08:32:59.000Z'
+         }
+      },
+      'canReply':True,
+      'totalReplyCount':0,
+      'isPublic':True
+   }
+}
